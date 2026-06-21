@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "slug": "sample-regulation-brief",
+      "title": "Sample regulation brief",
+      "ru_title": "Пример обзора регулирования",
+      "description": "English summary for social publishing tests.",
+      "ru_description": "Русское описание для проверки автопостинга.",
+      "seoDescription": "A longer English fallback description.",
+      "ru_seoDescription": "Более длинное русское описание для запасного варианта.",
+      "tags": ["regulation", "crypto"],
+      "socialImage": "/uploads/insights/social/sample-regulation-brief-1200x630.jpg"
+    }
+  ],
+  "shorts": [
+    {
+      "slug": "sample-ru-en-short",
+      "title": "English short text",
+      "ru_title": "Русский короткий текст",
+      "body": "First line.<br>Second line.",
+      "ru_body": "Первая строка.<br>Вторая строка.",
+      "image": "/uploads/insights/social/sample-ru-en-short-1200x630.jpg"
+    }
+  ]
+}
