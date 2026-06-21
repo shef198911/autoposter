@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "slug": "sample-market-update",
+      "title": "Sample market update",
+      "ru_title": "Пример рыночного обновления",
+      "description": "A short example summary for an article.",
+      "ru_description": "Короткое описание статьи для примера.",
+      "socialImage": "/uploads/insights/social/sample-market-update-1200x630.jpg"
+    }
+  ],
+  "shorts": [
+    {
+      "slug": "sample-short",
+      "title": "Sample short update",
+      "ru_title": "Короткое обновление для примера",
+      "body": "One short update for testing.",
+      "ru_body": "Короткое обновление для теста.",
+      "image": "/uploads/insights/social/sample-short-1200x630.jpg"
+    }
+  ]
+}
