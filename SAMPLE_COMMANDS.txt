@@ -1,0 +1,9 @@
+python app.py self-test
+python app.py status
+python app.py preview --limit 5
+python app.py send --all --dry
+python app.py send --slug example-slug --dry
+python app.py send --all --platform telegram
+python app.py send --all --platform telegram,bsky,instagram
+python app.py mark --slug example-slug --platform telegram
+python app.py reset --slug example-slug --platform telegram

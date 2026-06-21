@@ -1,0 +1,5 @@
+@echo off
+cd /d %~dp0
+python app.py self-test
+python app.py status
+pause
